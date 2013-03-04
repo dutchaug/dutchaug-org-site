@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The Dutch Android User Group]]></title>
+  <link href="http://dutchaug.github.com/dutchaug-org-site/atom.xml" rel="self"/>
+  <link href="http://dutchaug.github.com/dutchaug-org-site/"/>
+  <updated>2013-03-04T13:36:56+01:00</updated>
+  <id>http://dutchaug.github.com/dutchaug-org-site/</id>
+  <author>
+    <name><![CDATA[DutchAUG]]></name>
+    <email><![CDATA[info@dutchaug.org]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Android NFC Meetup]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/12/20/the-android-nfc-meetup/"/>
+    <updated>2012-12-20T00:00:00+01:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/12/20/the-android-nfc-meetup</id>
+    <content type="html"><![CDATA[<p><a href="http://bit.ly/daug-nfc-meetup"><img src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/nfc-meetup-promo-graphic.png"></a></p>
+
+<h2>Join the conversation</h2>
+
+<p>On Thursday December 20th we will pick-up our meetup schedule for the 2nd year of The Dutch Android User Group.
+At droidconNL we had lots of fun with <a href="https://play.google.com/store/apps/details?id=nl.dennisg.droidcon.hunt">&#8220;The NFC Hunt&#8221;</a> which
+inspired us to do more with NFC in the future. Luckily we have a pretty great line-up of speakers who have had many years of experience
+with NFC, recently available to a wide spread audience of people using the latest Android devices. We only have 80 seats available so
+<a href="http://bit.ly/daug-nfc-meetup">join</a> sooner rather than later!</p>
+
+<h2>Theme: <strong>&#8220;The Android NFC Meetup!&#8221;</strong></h2>
+
+<p>When you put two Android phones with NFC (Near Field Communication) capabilities close to each other&#8230; real close&#8230; in some apps a “Touch to Beam” dialog pops out and you can start sending pictures, or contact details, or whatever the programmers have come up with. NFC is an interesting way to communicate and which the latest Android devices are bringing to the masses. In this meetup we want to focus on what NFC is, what it’s future potential is and how you can use the “Touch to Beam” API in your own Android app and create whole new experiences for your end-users.</p>
+
+<h2>Featured speaker: Google&#8217;s NFC Tech Lead Martijn Coenen</h2>
+
+<p>We are very excited to announce that Google&#8217;s NFC Tech Lead <a href="https://plus.google.com/115995639636688350464">Martijn Coenen</a> will kick-off
+the NFC meetup with an interesting mix of inspirational and visionary talk about Android &amp; NFC, but also very practical stuff on why and how
+you should introduce the &#8220;Touch To Beam&#8221; functionality in your app.</p>
+
+<p><strong><strong>We hope to see you all on Dec 20th!</strong></strong></p>
+
+<p><a href="http://bit.ly/daug-nfc-meetup">register here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google IO Extended 2012, Amsterdam]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io-extended/"/>
+    <updated>2012-06-27T00:00:00+02:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io-extended</id>
+    <content type="html"><![CDATA[<h2>Intro</h2>
+
+<p>While it is probably not as exciting as the real thing in San Francisco, I&#8217;m still curious about what the keynote will be like.
+On this page I&#8217;ll try to summarize the most interesting features that come up.</p>
+
+<p><em>live stream was discontinued&#8230;</em></p>
+
+<!-- 
+iframe src="https://developers.google.com/events/announce/googleio2012/113269803670398336067?title=Google+IO+Extended+BLOG&announcements=off&feedheight=900&barcolor=%233D88F3&linkcolor=%23205AAF&width=920&height=886" style="border:0;box-shadow:0 0px 20px #888;-webkit-box-shadow:0 0px 20px #888;-khtml-box-shadow:0 0px 20px #888;-moz-box-shadow:0 0px 20px #888;-ms-box-shadow:0 0px 20px #888;-o-box-shadow:0 0px 20px #888;width:920px;height:1086px">
+</iframe -->
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google IO 2012, San Francisco]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io/"/>
+    <updated>2012-06-27T00:00:00+02:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io</id>
+    <content type="html"><![CDATA[<p><img src="https://developers.google.com/apps/images/io/google-io-logo.png"></p>
+
+<h2>Google IO live stream.</h2>
+
+<p>Below, you can follow the live stream provided by Google IO. Also follow our colleagues&#8217;
+<a href="https://plus.google.com/u/1/114227856179062761851">+Johan Pelgrim</a> live blog on the event!</p>
+
+<p><em>live stream was discontinued&#8230;</em></p>
+
+<!--
+iframe src="https://developers.google.com/events/announce/googleio2012/114227856179062761851?title=LIVE+BLOG&announcements=off&feedheight=900&barcolor=%233D88F3&linkcolor=%23205AAF&width=920&height=886" style="border:0;box-shadow:0 0px 20px #888;-webkit-box-shadow:0 0px 20px #888;-khtml-box-shadow:0 0px 20px #888;-moz-box-shadow:0 0px 20px #888;-ms-box-shadow:0 0px 20px #888;-o-box-shadow:0 0px 20px #888;width:920px;height:1086px">
+</iframe -->
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Dutch Android Open Space (2)]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/07/dutch-android-open-space2/"/>
+    <updated>2012-06-07T00:00:00+02:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/07/dutch-android-open-space2</id>
+    <content type="html"><![CDATA[<p><a href="http://www.dutchaug.org/events/63236452/"><img src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/Dutch-Android-Open-Space-2.png"></a></p>
+
+<h2>Join the conversation</h2>
+
+<p>On Thursday June 7th we will host the first Dutch Android Open Space meetup. If you are familiar with Open Space meetups
+you know how valuable these type of meetups can be. It is very open, highly active and interactive. Always aiming to discuss,
+distill and find solutions for the most interesting topics, information and challenges which you are facing every day, in your
+role as Android professional. This could very well be the most interesting meetup yet, so <a href="http://www.dutchaug.org/events/63236452/">join</a>
+sooner rather than later!</p>
+
+<h2>Theme: <em>&#8220;Together we can build awesome apps!&#8221;</em></h2>
+
+<p>If you are working on mobile projects you know that time-to-market is often short.
+The client wants to have the best looking app and your end-users deserve the best user experience.
+How do you create an awesome Android app in such a short time frame and still keep smiling? How can we work together?
+What have you learned along the way and what is still a big hurdle to take, every time you start an Android project?
+Do you re-use components? And how do you build, test and deploy your app? All fair questions and hopefully disclosing the
+ Open Space theme up front will get you more excited to join the conversation.</p>
+
+<h2>Rich Hyndmann opening keynote</h2>
+
+<p>We are very excited to announce that no one less than Google Android Developer Advocate and DutchAUG supporter
+<a href="https://plus.google.com/115995639636688350464">Rich Hyndmann</a> will open the Open Space meetup via an On Air hangout.
+In an inspirational keynote Rich will share his vision on how we can build awesome apps. After his keynote we will open up the
+ hangout for Q&amp;A, so feel free to prepare a question or two for Rich.</p>
+
+<p><em><em>We hope to see you all on June 7th!</em></em></p>
+
+<p><a href="http://www.dutchaug.org/events/63236452/">register here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Dutch Android Open Space (1)]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/07/dutch-android-open-space/"/>
+    <updated>2012-06-07T00:00:00+02:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/07/dutch-android-open-space</id>
+    <content type="html"><![CDATA[<p><a href="http://www.dutchaug.org/events/63236452/"><img src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/Dutch-Android-Open-Space-1.png"></a></p>
+
+<h2>Join the conversation</h2>
+
+<p>On Thursday June 7th we will host the first Dutch Android Open Space meetup. If you are familiar with Open Space meetups you know how
+valuable these type of meetups can be. It is very open, highly active and interactive. Always aiming to discuss, distill and find solutions
+for the most interesting topics, information and challenges which you are facing every day, in your role as Android professional.
+ This could very well be the most interesting meetup yet, so <a href="http://www.dutchaug.org/events/63236452/">join</a> sooner rather than later!</p>
+
+<h2>Theme: <em>&#8220;Together we can build awesome apps!&#8221;</em></h2>
+
+<p>If you are working on mobile projects you know that time-to-market is often short. The client wants to have the best looking app and your end-users deserve the best user experience. How do you create an awesome Android app in such a short time frame and still keep smiling? How can we work together? What have you learned along the way and what is still a big hurdle to take, every time you start an Android project? Do you re-use components? And how do you build, test and deploy your app? All fair questions and hopefully disclosing the Open Space theme will get you more excited to join the conversation.</p>
+
+<h2>Rich Hyndmann opening keynote</h2>
+
+<p>We are very excited to announce that no one less than Google Android Developer Advocate and DutchAUG supporter
+<a href="https://plus.google.com/115995639636688350464">Rich Hyndmann</a> will open the Open Space meetup via an On Air hangout.
+In an inspirational keynote Rich will share his vision on how we can build awesome apps. After his keynote we will open up the
+hangout for Q&amp;A, so feel free to prepare a question or two for Rich.</p>
+
+<p><em><em>We hope to see you all on June 7th!</em></em></p>
+
+<p><a href="http://www.dutchaug.org/events/63236452/">register here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Android Tablet Development]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/03/15/tablet-development/"/>
+    <updated>2012-03-15T00:00:00+01:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/03/15/tablet-development</id>
+    <content type="html"><![CDATA[<h2>Introduction</h2>
+
+<p>Designing and developing for an Android tablet is very different to designing and developing for smartphones.
+Tablets allow us to exercise our primal urge to move things around with our hands. They are predominantly used at home
+in the evenings and it&#8217;s likely that you will be focused on a particular task. This differs from smart phones where we often
+have lots going on at once and dip in and out of apps as we go. This meetup will provide a look into the development of
+Android Tablets.</p>
+
+<h3>Schedule</h3>
+
+<ul>
+<li>16:30 - 17:00 Walk-in</li>
+<li>17:00 - 17:10 Opening and welcome</li>
+<li>17:10 - 17:20 General announcements</li>
+<li>17:20 - 18:00 &#8220;Designing for Android Tablet&#8221; (Wiebe Elsinga)</li>
+<li>18:00 - 19:00 Dinner</li>
+<li>19:00 - 19:40 &#8220;Coding the Tablet&#8221; (Coen Houtman)</li>
+<li>19:40 - 20:00 Coffee break</li>
+<li>20:00 - 20:40 &#8220;Live demo: how to connect your fragments to cloud-based REST services&#8221; (Dennis Geurts)</li>
+<li>20:40 - 21:30 &#8220;Barcamp&#8221;</li>
+</ul>
+
+
+<h4>Wiebe Elsinga</h4>
+
+<p><img src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/wiebee.jpeg"> Is currently a Technical Lead at the mobile department of Itude.
+He has a long time experience in software development of mobile, web and enterprise applications. He is mainly
+focused on the development of mobile applications, and is continuously seeking quality improvements within the development
+process of mobile applications. Besides being a co-organizer of the Dutch Android Usergroup he is also a public speaker at
+technical conferences worldwide.</p>
+
+<h4>Coen Houtman</h4>
+
+<p><img src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/coenh.jpeg"> Started his study &#8220;computer science&#8221; in 2004 to become a software engineer. During his study he was
+ able to gain experience with a variety of programming languages, including: C, C++ and C#. Most classes, however, were built around
+ Java. In 2008 he started working at Itude, where soon after, he joined the mobile department. After working on various mobile
+ projects, he started out on his first Android project in 2010. Since then, he helped building complex Android applications for
+ both smartphones and tablets. In fact, he was responsible for redesigning smartphone applications to make them suitable for tablets.</p>
+
+<h4>Dennis Geurts</h4>
+
+<p><img src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/dennisg.jpeg"> Is an experienced software engineer at Luminis.
+He loves programming for mobile devices (mostly Android, but also for iPhone/iPad) but is also well-versed in OSGi
+ and Java in general. He&#8217;s also interested in node.js and noSQL (CouchDB and Redis are his favorites).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DutchAUG @ mdevcon]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/03/10/mdevcon/"/>
+    <updated>2012-03-10T00:00:00+01:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/03/10/mdevcon</id>
+    <content type="html"><![CDATA[<h2>mdevcon 2012</h2>
+
+<p>On Saturday March 10th 2012 <a href="http://mdevcon.com/">mdevcon</a> will be held in the beautiful Tuschinski theater in Amsterdam
+(visit the <a href="http://mdevcon.com/">website</a> to get tickets).</p>
+
+<p>mdevcon is a conference by developers, for developers working with mobile technology. There will be talks targeted at a specific
+platform and talks of a more platform independent nature. mdevcon welcomes independent developers, freelancers and developers
+working for a company:</p>
+
+<blockquote><p>It doesn&#8217;t matter who you are or where you work, if you work with mobile technology you&#8217;ll enjoy this conference.</p></blockquote>
+
+
+<p>Read more about the conference and schedule here. mdevcon is sponsored by <a href="http://www.egeniq.nl/">Egeniq</a> and organized by DutchAUGer
+ <a href="http://www.dutchaug.org/members/12629751">Ivo Jansch</a>.</p>
+
+<h2>DutchAUG @ events</h2>
+
+<p>As mentioned on the first meetup we are planning to attend a fair amount of mobile conferences ourselves.
+And with our own organizer <a href="http://www.dutchaug.org/members/21758011">Wiebe Elsinga</a> talking on &#8220;Prototype your mobile applications&#8221;
+and DutchAUGer <a href="http://www.dutchaug.org/members/9475687">Hugo Visser</a> on &#8220;Embracing Android Fragmentation&#8221; it is a great opportunity
+ to spread the word about the DutchAUG to the mdevcon audience.</p>
+
+<p>If you are attending mdevcon as well let us know by RSVPing &#8220;Yes&#8221; to this meetup and we&#8217;ll have a short meetup at one of the
+conference breaks or sessions.</p>
+
+<p>If you are thinking about attending mdevcon think fast, tickets sales are going fast so decide quickly if you don&#8217;t want to miss out.
+If you attend the <a href="http://www.dutchaug.org/events/46919792">Android meets the Enterprise</a> meetup you have a chance of winning a free
+ ticket, or get your money back (in case you&#8217;ve already bought a ticket), with the compliments of the mdevcon organization.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Android meets the Entreprise]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/02/22/android-meets-enterprise/"/>
+    <updated>2012-02-22T00:00:00+01:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/02/22/android-meets-enterprise</id>
+    <content type="html"><![CDATA[<h2>Introduction</h2>
+
+<p>Software companies are most likely working on many Android apps. There is an increased need want to control this development process.
+That means a lean process with automated tests and builds, re-usable components and the right amount of security.</p>
+
+<!-- more -->
+
+
+<p>In this meetup we want to address these Enterprise challenges.</p>
+
+<h3>Preliminary schedule:</h3>
+
+<ul>
+<li>16:30 - 17:00 Walk-in</li>
+<li>17:00 - 17:10 Opening and welcome (Atos)</li>
+<li>17:10 - 17:20 General announcements (DutchAUG)</li>
+<li>17:20 - 18:00 &#8220;The Android Software Lifecycle Management Process&#8221; (Mylène Reiners)</li>
+<li>18:00 - 19:00 Dinner</li>
+<li>19:00 - 19:40 &#8220;Securely Storing Secrets on Android devices&#8221; (Ivo Jansch)</li>
+<li>19:40 - 20:00 Coffee break</li>
+<li>20:00 - 20:40 &#8220;Reinventing data storage and synchronization&#8221; (Wouter Vegter)</li>
+<li>20:40 - 21:30 Barcamp</li>
+</ul>
+
+
+<h4>The Android Software Lifecycle Management Process</h4>
+
+<p>Lots of people are writing Android apps. Some of them write apps that are to be used by enterprises&#8217; both employees and customers.
+Often those apps are in one way or another connected to enterprise systems, and need to find their place in the whole enterprise
+application/software landscape. This is no easy task.</p>
+
+<p>All of a sudden us, builders of fun apps, need to comply with standards, need to use version control,
+continuous integration and the like. Our apps are tested by people who do not only look at the &#8216;wow&#8217; factor, but who thoroughly
+look at functionality and whether the app is built in accordance with the requirements. Our apps need to comply with lots of
+ -ilities (availability, maintainability, reliability, testability etc.). People from the operations team want to be able to exactly
+ know what influence the app will have on diverse resources. All of a sudden building apps has become work!</p>
+
+<p>In my presentation I would like to address some of the aforementioned topics, especially where the process differs from the
+&#8216;traditional&#8217; software lifecycle management process. This traditional process will be described shortly, to give the audience
+the necessary context. Then I will zoom in on the differences between traditional SLMP and Android SLMP. First (shortly)
+on requirements – especially what is special about apps, on architecture and development (main focus), and why you need
+standardization, quality, security etc., but also the tools to use. After that (again shortly) testing, administration,
+maintenance etc.</p>
+
+<p>This is not meant to be a static presentation, but when the allotted time slot allows it there will be a demonstration of
+how this whole process (as far as tooling is concerned) could work, and why we chose this tooling etc.</p>
+
+<p>h4. Mylène Reiners</p>
+
+<p>Mylène has been employed in the field of ICT since 1988, and gained experience in lots of technologies and roles. Currently she
+works at Atos Nederland B.V. in Eindhoven, and spends almost all of her time working as a software architect and as Dutch competence
+lead for Java EE and Android. Besides that, her interest is centered around software quality and software security, software
+craftsmanship and agile, SaaS and Open Source and Open Standards. She tries to keep up-to-date with all of those interests,
+mostly conceptual, sometimes by going hands-on.</p>
+
+<h4>Securely Storing Secrets on Android Devices</h4>
+
+<p>Services such as Twitter use OAuth to allow their users to grant us - the developers of apps - access to their resources.
+We in turn use twitter or other identity providers for authenticating our users and give them access to our own APIs.
+This triangular relationship requires trust between everybody involved.</p>
+
+<p>While in theory this is great, in practice we run into a lot of issues. Many developers store their consumer secrets inside an app,
+ basically placing the keys to the kingdom in user&#8217;s hands and trust the Android security model to protect these keys.
+ The alternatives, ranging from dynamically exchanging token secrets to building custom proxies can be complicated, especially for
+ app developers that just want to focus on the app, without having to worry about custom backend APIs.</p>
+
+<p>In this talk, we will look at the security implications of the app, API and third party services love triangle and look at ways
+to improve security without compromising usability. The talk mixes theory with practical examples.</p>
+
+<h4>Ivo Jansch</h4>
+
+<p>Ivo Jansch is one of the founders of Egeniq.com, a mobile technology company based in Utrecht. He is one of the architects
+and developers of the Tiqr authentication application for Android and iPhone. Ivo focuses on software architecture and best
+ practices in mobile app development. He has authored 2 books and is a regular speaker at conferences (previous presentations
+ and books can be found on <a href="http://www.jansch.nl">http://www.jansch.nl</a>)</p>
+
+<h4>Reinventing data storage and synchronization</h4>
+
+<p>Android is enterprise-wise still very immature. Although demands for data handling are growing at a very fast rate, we are still left with basic database access and ill defined classes for data synchronisation. Based on significant Android enterprise experience, combined with insight of other software frameworks, we are building an enterprise ORM and synchronisation framework. We tried to follow the Android architecture guidelines as strict as possible, while leaving space for generic streamlined functionality.This session will discuss the challenges we encountered during our enterprise app development and will touch upon some key functionalities needed for a steady enterprise Android framework.
+While this is primarily a tech-talk, light is also shed on more practical concepts like out-of-market app distribution, crash reporting and our own general experiences.
+The main goal of this session is sharing experiences and sufficiently elegantly working solutions.</p>
+
+<h4>Wouter Vegter</h4>
+
+<p>Wouter Vegter, Android consultant and developer, is working with Android since 2009 with his company Moop.me. Moop.me has
+developed and designed apps for amongst others Booking.com, PayPal, RodeKruis, Gemeentelijk VervoersBedrijf Amsterdam, but also
+for enterprise customers like Vebego, NS en Gemeente Rotterdam. Moop.me has won several prices, like the Google developers challenge
+ for Android and the Chrome webstore competition. Wouter is the author of the DevTutorials: the Dutch extensive Android tutorials
+ published on Androidworld.nl. Wouter regurarly gives presentations about Android, from both a technical and a business perspective.
+ Some of Moop.me&#8217;s own projects include an Android enterprise framework and an iPad cash register solution for small restaurants.</p>
+
+<h4>Barcamp</h4>
+
+<p>If you have anything interesting you would like to share with the group, this is your chance! You can think about asking
+the group about a best practice for a programming challenge you are facing, or start a fuss by taking a stand on e.g. the
+cross-platform debate, maybe a great moment to demo your app or app concept, get some feedback and maybe solicit some partners in
+crime, etc. Barcamp slots will be max 5 minutes per person, to give a larger group a chance to present something. If you already
+have a topic and have some slides please send them to [masked] and we&#8217;ll make sure they are on the laptop connected to the beamer.</p>
+
+<p>During the barcamp we will have some drinks and time to meet and speak with each other. Of course we will do our very best to
+include some giveaways and goodies. Dinner and drinks will be sponsored by Atos.</p>
+]]></content>
+  </entry>
+  
+</feed>

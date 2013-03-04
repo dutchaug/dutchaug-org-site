@@ -1,0 +1,80 @@
+body {
+	background-color: black;
+}
+
+.text {
+	font-family: "Roboto-BoldCondensed";
+	font-style: bold;
+	fill: white;
+	fill-opacity:1;
+}
+
+.onder {
+	font-size: 100pt;
+}
+
+.rechts {
+	font-size: 400pt;
+}
+
+#droid_body circle {
+	fill: url(#g1);
+}
+
+.background {
+	fill: transparent;
+}
+
+.white {
+	fill: white;
+}
+
+.green {
+	fill: #A4C639;
+	stroke: #A4C639; 
+}
+
+.cheese {
+	fill: #FFBD17;
+	stop-color: #FFBD17; 
+	stroke: #FFBD17; 
+}
+.cheese-holes {
+	fill: #EEAC06;
+	stop-color: #EEAC06;
+	stroke: #EEAC06; 
+}
+
+.test {
+	fill: red;
+	stroke: red; 
+}
+
+.rounded {
+	stroke-linecap: round;
+	stroke-width: 10pt;
+}
+
+.pole {
+	fill: #774411;
+	stroke: #774411;
+	stroke-width: 2pt;
+}
+
+.fat {
+	stroke-width: 80pt;
+}
+
+.bb {
+	stroke: black;
+	stroke-width: 1pt;
+	
+}
+
+.red {
+	fill: red;
+}
+
+.blue {
+	fill: blue;
+}

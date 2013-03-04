@@ -1,0 +1,386 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Android meets the Entreprise - The Dutch Android User Group</title>
+  <meta name="author" content="DutchAUG">
+
+  
+  <meta name="description" content="Introduction Software companies are most likely working on many Android apps. There is an increased need want to control this development process. &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/02/22/android-meets-enterprise/">
+  <link href="/dutchaug-org-site/favicon.png" rel="icon">
+  <link href="/dutchaug-org-site/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/dutchaug-org-site/javascripts/modernizr-2.0.js"></script>
+  <script src="/dutchaug-org-site/javascripts/ender.js"></script>
+  <script src="/dutchaug-org-site/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/dutchaug-org-site/atom.xml" rel="alternate" title="The Dutch Android User Group" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <span>
+	  <a href="/dutchaug-org-site/">
+	  	<object id='svg' data="/dutchaug-org-site/images/dutchaug_rechts.svg" type="image/svg+xml" width="100%" height="100%"></object>
+	  </a>
+  </span>
+  
+    <h2>for Android enthusiasts</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/dutchaug-org-site/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:dutchaug.github.com/dutchaug-org-site" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/dutchaug-org-site/">Home</a></li>
+  <li><a href="/dutchaug-org-site/meetups">Meetups</a></li>
+  <li><a href="/dutchaug-org-site/partners">Partners</a></li>
+  <li><a href="/dutchaug-org-site/sponsors">Sponsors</a></li>
+  <li><a href="/dutchaug-org-site/supportus">Support Us!</a></li>
+  <li><a href="/dutchaug-org-site/contact">Contact</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Android Meets the Entreprise</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-02-22T00:00:00+01:00" pubdate data-updated="true">Feb 22<span>nd</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><h2>Introduction</h2>
+
+<p>Software companies are most likely working on many Android apps. There is an increased need want to control this development process.
+That means a lean process with automated tests and builds, re-usable components and the right amount of security.</p>
+
+<!-- more -->
+
+
+<p>In this meetup we want to address these Enterprise challenges.</p>
+
+<h3>Preliminary schedule:</h3>
+
+<ul>
+<li>16:30 - 17:00 Walk-in</li>
+<li>17:00 - 17:10 Opening and welcome (Atos)</li>
+<li>17:10 - 17:20 General announcements (DutchAUG)</li>
+<li>17:20 - 18:00 &#8220;The Android Software Lifecycle Management Process&#8221; (Mylène Reiners)</li>
+<li>18:00 - 19:00 Dinner</li>
+<li>19:00 - 19:40 &#8220;Securely Storing Secrets on Android devices&#8221; (Ivo Jansch)</li>
+<li>19:40 - 20:00 Coffee break</li>
+<li>20:00 - 20:40 &#8220;Reinventing data storage and synchronization&#8221; (Wouter Vegter)</li>
+<li>20:40 - 21:30 Barcamp</li>
+</ul>
+
+
+<h4>The Android Software Lifecycle Management Process</h4>
+
+<p>Lots of people are writing Android apps. Some of them write apps that are to be used by enterprises&#8217; both employees and customers.
+Often those apps are in one way or another connected to enterprise systems, and need to find their place in the whole enterprise
+application/software landscape. This is no easy task.</p>
+
+<p>All of a sudden us, builders of fun apps, need to comply with standards, need to use version control,
+continuous integration and the like. Our apps are tested by people who do not only look at the &#8216;wow&#8217; factor, but who thoroughly
+look at functionality and whether the app is built in accordance with the requirements. Our apps need to comply with lots of
+ -ilities (availability, maintainability, reliability, testability etc.). People from the operations team want to be able to exactly
+ know what influence the app will have on diverse resources. All of a sudden building apps has become work!</p>
+
+<p>In my presentation I would like to address some of the aforementioned topics, especially where the process differs from the
+&#8216;traditional&#8217; software lifecycle management process. This traditional process will be described shortly, to give the audience
+the necessary context. Then I will zoom in on the differences between traditional SLMP and Android SLMP. First (shortly)
+on requirements – especially what is special about apps, on architecture and development (main focus), and why you need
+standardization, quality, security etc., but also the tools to use. After that (again shortly) testing, administration,
+maintenance etc.</p>
+
+<p>This is not meant to be a static presentation, but when the allotted time slot allows it there will be a demonstration of
+how this whole process (as far as tooling is concerned) could work, and why we chose this tooling etc.</p>
+
+<p>h4. Mylène Reiners</p>
+
+<p>Mylène has been employed in the field of ICT since 1988, and gained experience in lots of technologies and roles. Currently she
+works at Atos Nederland B.V. in Eindhoven, and spends almost all of her time working as a software architect and as Dutch competence
+lead for Java EE and Android. Besides that, her interest is centered around software quality and software security, software
+craftsmanship and agile, SaaS and Open Source and Open Standards. She tries to keep up-to-date with all of those interests,
+mostly conceptual, sometimes by going hands-on.</p>
+
+<h4>Securely Storing Secrets on Android Devices</h4>
+
+<p>Services such as Twitter use OAuth to allow their users to grant us - the developers of apps - access to their resources.
+We in turn use twitter or other identity providers for authenticating our users and give them access to our own APIs.
+This triangular relationship requires trust between everybody involved.</p>
+
+<p>While in theory this is great, in practice we run into a lot of issues. Many developers store their consumer secrets inside an app,
+ basically placing the keys to the kingdom in user&#8217;s hands and trust the Android security model to protect these keys.
+ The alternatives, ranging from dynamically exchanging token secrets to building custom proxies can be complicated, especially for
+ app developers that just want to focus on the app, without having to worry about custom backend APIs.</p>
+
+<p>In this talk, we will look at the security implications of the app, API and third party services love triangle and look at ways
+to improve security without compromising usability. The talk mixes theory with practical examples.</p>
+
+<h4>Ivo Jansch</h4>
+
+<p>Ivo Jansch is one of the founders of Egeniq.com, a mobile technology company based in Utrecht. He is one of the architects
+and developers of the Tiqr authentication application for Android and iPhone. Ivo focuses on software architecture and best
+ practices in mobile app development. He has authored 2 books and is a regular speaker at conferences (previous presentations
+ and books can be found on <a href="http://www.jansch.nl">http://www.jansch.nl</a>)</p>
+
+<h4>Reinventing data storage and synchronization</h4>
+
+<p>Android is enterprise-wise still very immature. Although demands for data handling are growing at a very fast rate, we are still left with basic database access and ill defined classes for data synchronisation. Based on significant Android enterprise experience, combined with insight of other software frameworks, we are building an enterprise ORM and synchronisation framework. We tried to follow the Android architecture guidelines as strict as possible, while leaving space for generic streamlined functionality.This session will discuss the challenges we encountered during our enterprise app development and will touch upon some key functionalities needed for a steady enterprise Android framework.
+While this is primarily a tech-talk, light is also shed on more practical concepts like out-of-market app distribution, crash reporting and our own general experiences.
+The main goal of this session is sharing experiences and sufficiently elegantly working solutions.</p>
+
+<h4>Wouter Vegter</h4>
+
+<p>Wouter Vegter, Android consultant and developer, is working with Android since 2009 with his company Moop.me. Moop.me has
+developed and designed apps for amongst others Booking.com, PayPal, RodeKruis, Gemeentelijk VervoersBedrijf Amsterdam, but also
+for enterprise customers like Vebego, NS en Gemeente Rotterdam. Moop.me has won several prices, like the Google developers challenge
+ for Android and the Chrome webstore competition. Wouter is the author of the DevTutorials: the Dutch extensive Android tutorials
+ published on Androidworld.nl. Wouter regurarly gives presentations about Android, from both a technical and a business perspective.
+ Some of Moop.me&#8217;s own projects include an Android enterprise framework and an iPad cash register solution for small restaurants.</p>
+
+<h4>Barcamp</h4>
+
+<p>If you have anything interesting you would like to share with the group, this is your chance! You can think about asking
+the group about a best practice for a programming challenge you are facing, or start a fuss by taking a stand on e.g. the
+cross-platform debate, maybe a great moment to demo your app or app concept, get some feedback and maybe solicit some partners in
+crime, etc. Barcamp slots will be max 5 minutes per person, to give a larger group a chance to present something. If you already
+have a topic and have some slides please send them to [masked] and we&#8217;ll make sure they are on the laptop connected to the beamer.</p>
+
+<p>During the barcamp we will have some drinks and time to meet and speak with each other. Of course we will do our very best to
+include some giveaways and goodies. Dinner and drinks will be sponsored by Atos.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">DutchAUG</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-02-22T00:00:00+01:00" pubdate data-updated="true">Feb 22<span>nd</span>, 2012</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://dutchaug.github.com/dutchaug-org-site/blog/2012/02/22/android-meets-enterprise/" data-via="DutchAUG" data-counturl="http://dutchaug.github.com/dutchaug-org-site/blog/2012/02/22/android-meets-enterprise/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+      
+        <a class="basic-alignment right" href="/dutchaug-org-site/blog/2012/03/10/mdevcon/" title="Next Post: DutchAUG @ mdevcon">DutchAUG @ mdevcon &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Meetups</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/dutchaug-org-site/blog/2012/12/20/the-android-nfc-meetup/">The Android NFC Meetup</a>
+      </li>
+    
+      <li class="post">
+        <a href="/dutchaug-org-site/blog/2012/06/27/google-io-extended/">Google IO Extended 2012, Amsterdam</a>
+      </li>
+    
+      <li class="post">
+        <a href="/dutchaug-org-site/blog/2012/06/27/google-io/">Google IO 2012, San Francisco</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/dutchaug">@dutchaug</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'dutchaug',
+            count: 1,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/dutchaug-org-site/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("DutchAUG", 4, false);
+    });
+  </script>
+  <script src="/dutchaug-org-site/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/DutchAUG" class="twitter-follow-button" data-show-count="false">Follow @DutchAUG</a>
+  
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/Dutch Android User Group?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - DutchAUG -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
