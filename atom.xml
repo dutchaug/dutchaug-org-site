@@ -4,14 +4,91 @@
   <title><![CDATA[The Dutch Android User Group]]></title>
   <link href="http://dutchaug.github.com/dutchaug-org-site/atom.xml" rel="self"/>
   <link href="http://dutchaug.github.com/dutchaug-org-site/"/>
-  <updated>2013-03-04T13:36:56+01:00</updated>
+  <updated>2013-03-04T16:38:01+01:00</updated>
   <id>http://dutchaug.github.com/dutchaug-org-site/</id>
   <author>
-    <name><![CDATA[DutchAUG]]></name>
+    <name><![CDATA[Foundation the Dutch Android User Group]]></name>
     <email><![CDATA[info@dutchaug.org]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Android Code Puzzlers + Tips &amp;<br/> Tricks Meetup]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup/"/>
+    <updated>2013-02-26T16:30:00+01:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/2013-02-26-logo.png"></p>
+
+<p>Sometimes you&#8217;re stuck&#8230; Either you are doing something wrong, or the Android Framework is&#8230; (probably the latter ;-).</p>
+
+<p>It&#8217;s sometimes hard to find the right, or simply a good solution to programming challenges you face every day.
+In this meetup we want to train these skills by presenting you with some simple to really challenging Android Code Puzzlers
+to real-life Android programming situations. At the end of the evening you will be a more savvy Android programmer with a
+few new tricks up your sleeve ;-)</p>
+
+<h3>Example puzzles</h3>
+
+<p>Example 1 (2 points):</p>
+
+<blockquote><p>Name 5 different ways to handle a button click in an Activity.</p></blockquote>
+
+
+<p>Example 2 (5 points):</p>
+
+<blockquote><p>When I scroll to the top of the bottom of my ListView I see a blue vagueness popping in and out. How can you turn this off?</p></blockquote>
+
+
+<p>Example 3 (10 points):</p>
+
+<blockquote><p>You create and execute an AsyncTask within the doInBackground method from another AsyncTask&#8230; Great solution, right? Or maybe not so great&#8230; What happens and why? How could you solve this?</p></blockquote>
+
+
+<p>We will present many of these kind of puzzlers which you will solve in small teams.
+When you register for this meetup we ask you for you Android programming skill level (beginner / intermediate / expert),
+this to create equally levelled teams. Good answers will score some points for your team, which at the end of the evening might result in
+some well earned prizes, but more importantly, eternal fame.</p>
+
+<p><em>Note:</em> If you have a interesting code challenge which suits this meetup fine please send it to <a href="info@dutchaug.org">info@dutchaug.org</a> (Thanks in advance!)</p>
+
+<h3>Tips &amp; Tricks</h3>
+
+<p>In the second half of this meetup we want to present you with our tips and tricks in how to setup an Android project, create project resources,
+present you with useful libraries, frameworks and tools we use to implement certain features in our Android apps. In return we would like to hear
+what you are doing to solve various day to day tasks in assembling your Android app and creating the best user experience for your users.
+Tips &amp; tricks from us to you and you to us ;-). And open discussion to learn from each other and improve our Android apps!</p>
+
+<h3>The Agenda</h3>
+
+<ul>
+<li>16:30 Walk-in</li>
+<li>17:00 Opening and Welcome (Michael Wolf - Luminis)</li>
+<li>17:10 DutchAUG announcements (Dennis)</li>
+<li>17:30 Android Code Puzzlers</li>
+<li>18:30 Dinner</li>
+<li>19:30 Android Tips &amp; Tricks</li>
+<li>20:30 Drinks and time to meet!</li>
+</ul>
+
+
+<h3>Win stuff</h3>
+
+<p>We will be giving away a print version of O&#8217;Reilly&#8217;s &#8220;Android Cookbook&#8221; and Wrox&#8217;s &#8220;Android Application Development Cookbook&#8221; plus two
+Manning eBooks (of your choice) at this meetup. We will also be giving away a free ticket (value &euro; 140,-) to mdevcon 2013 to one of the meetup attendees!</p>
+
+<p>We hope to get a full-house on this one, so don&#8217;t wait to register soon!</p>
+
+<p>Kind regards,</p>
+
+<p>Your organizers: <em>Wiebe, Dennis and Johan.</em></p>
+
+<p><strong>P.S. We ask for a small fee for this meetup to help us paying for pizza &amp; drinks.</strong></p>
+
+<p><strong> This meetup is made possible by Luminis </strong></p>
+
+<p><img class="center" src="http://dutchaug.github.com/dutchaug-org-site/images/luminis.png" width="500"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Android NFC Meetup]]></title>
@@ -41,6 +118,24 @@ you should introduce the &#8220;Touch To Beam&#8221; functionality in your app.<
 <p><strong><strong>We hope to see you all on Dec 20th!</strong></strong></p>
 
 <p><a href="http://bit.ly/daug-nfc-meetup">register here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA["V Hack Android" opening]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-opening/"/>
+    <updated>2012-09-14T00:00:00+02:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-opening</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA["V Hack Android" Netherlands]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-netherlands/"/>
+    <updated>2012-09-14T00:00:00+02:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-netherlands</id>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
@@ -348,6 +443,15 @@ have a topic and have some slides please send them to [masked] and we&#8217;ll m
 
 <p>During the barcamp we will have some drinks and time to meet and speak with each other. Of course we will do our very best to
 include some giveaways and goodies. Dinner and drinks will be sponsored by Atos.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DutchAUG @ droidconNL 2012]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2011/11/22/dutchaug-at-droidconnl-2012/"/>
+    <updated>2011-11-22T00:00:00+01:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2011/11/22/dutchaug-at-droidconnl-2012</id>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
