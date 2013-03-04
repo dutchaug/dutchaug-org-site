@@ -4,7 +4,7 @@
   <title><![CDATA[The Dutch Android User Group]]></title>
   <link href="http://dutchaug.github.com/dutchaug-org-site/atom.xml" rel="self"/>
   <link href="http://dutchaug.github.com/dutchaug-org-site/"/>
-  <updated>2013-03-04T21:25:44+01:00</updated>
+  <updated>2013-03-04T22:28:47+01:00</updated>
   <id>http://dutchaug.github.com/dutchaug-org-site/</id>
   <author>
     <name><![CDATA[Foundation the Dutch Android User Group]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Android Code Puzzlers + Tips &amp;<br/> Tricks Meetup]]></title>
+    <title type="html"><![CDATA[Android Code Puzzlers + Tips &amp; Tricks Meetup]]></title>
     <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup/"/>
     <updated>2013-02-26T16:30:00+01:00</updated>
     <id>http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup</id>
@@ -91,6 +91,15 @@ Manning eBooks (of your choice) at this meetup. We will also be giving away a fr
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[DutchAUG becomes a foundation]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/05/dutchaug-becomes-a-foundation/"/>
+    <updated>2013-02-05T00:00:00+01:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/05/dutchaug-becomes-a-foundation</id>
+    <content type="html"><![CDATA[<p>Today, Johan, Wiebe and Dennis went to the notary office and made it official and founded The Dutch Android User Group.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[The Android NFC Meetup]]></title>
     <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/12/20/the-android-nfc-meetup/"/>
     <updated>2012-12-20T00:00:00+01:00</updated>
@@ -122,6 +131,15 @@ you should introduce the &#8220;Touch To Beam&#8221; functionality in your app.<
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[DutchAUG @ droidconNL 2012]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/11/22/dutchaug-at-droidconnl-2012/"/>
+    <updated>2012-11-22T00:00:00+01:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/11/22/dutchaug-at-droidconnl-2012</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA["V Hack Android" opening]]></title>
     <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-opening/"/>
     <updated>2012-09-14T00:00:00+02:00</updated>
@@ -140,7 +158,7 @@ you should introduce the &#8220;Touch To Beam&#8221; functionality in your app.<
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Google IO Extended 2012, Amsterdam]]></title>
+    <title type="html"><![CDATA[Google I/O Extended 2012, Amsterdam]]></title>
     <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io-extended/"/>
     <updated>2012-06-27T00:00:00+02:00</updated>
     <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io-extended</id>
@@ -159,7 +177,7 @@ iframe src="https://developers.google.com/events/announce/googleio2012/113269803
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Google IO 2012, San Francisco]]></title>
+    <title type="html"><![CDATA[Google I/O 2012, San Francisco]]></title>
     <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io/"/>
     <updated>2012-06-27T00:00:00+02:00</updated>
     <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io</id>
@@ -443,15 +461,6 @@ have a topic and have some slides please send them to [masked] and we&#8217;ll m
 
 <p>During the barcamp we will have some drinks and time to meet and speak with each other. Of course we will do our very best to
 include some giveaways and goodies. Dinner and drinks will be sponsored by Atos.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DutchAUG @ droidconNL 2012]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2011/11/22/dutchaug-at-droidconnl-2012/"/>
-    <updated>2011-11-22T00:00:00+01:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2011/11/22/dutchaug-at-droidconnl-2012</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

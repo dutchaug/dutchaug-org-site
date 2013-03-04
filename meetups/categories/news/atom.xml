@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: news | The Dutch Android User Group]]></title>
+  <link href="http://dutchaug.github.com/dutchaug-org-site/meetups/categories/news/atom.xml" rel="self"/>
+  <link href="http://dutchaug.github.com/dutchaug-org-site/"/>
+  <updated>2013-03-04T22:28:47+01:00</updated>
+  <id>http://dutchaug.github.com/dutchaug-org-site/</id>
+  <author>
+    <name><![CDATA[Foundation the Dutch Android User Group]]></name>
+    <email><![CDATA[info@dutchaug.org]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[DutchAUG becomes a foundation]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/05/dutchaug-becomes-a-foundation/"/>
+    <updated>2013-02-05T00:00:00+01:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/05/dutchaug-becomes-a-foundation</id>
+    <content type="html"><![CDATA[<p>Today, Johan, Wiebe and Dennis went to the notary office and made it official and founded The Dutch Android User Group.</p>
+]]></content>
+  </entry>
+  
+</feed>

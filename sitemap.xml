@@ -2,71 +2,85 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://dutchaug.github.com/dutchaug-org-site/blog/2011/11/22/dutchaug-at-droidconnl-2012/
-        </loc>
-        <lastmod>2013-03-04T15:02:42+01:00</lastmod>
-    </url>
-    <url>
-        <loc>
             http://dutchaug.github.com/dutchaug-org-site/blog/2012/02/22/android-meets-enterprise/
         </loc>
-        <lastmod>2013-03-04T13:03:08+01:00</lastmod>
+        <lastmod>2013-03-04T21:51:26+01:00</lastmod>
     </url>
     <url>
         <loc>http://dutchaug.github.com/dutchaug-org-site/blog/2012/03/10/mdevcon/</loc>
-        <lastmod>2013-03-04T13:03:08+01:00</lastmod>
+        <lastmod>2013-03-04T21:51:33+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://dutchaug.github.com/dutchaug-org-site/blog/2012/03/15/tablet-development/
         </loc>
-        <lastmod>2013-03-04T13:03:08+01:00</lastmod>
+        <lastmod>2013-03-04T21:51:39+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/07/dutch-android-open-space/
         </loc>
-        <lastmod>2013-03-04T13:03:08+01:00</lastmod>
+        <lastmod>2013-03-04T21:51:45+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/07/dutch-android-open-space2/
         </loc>
-        <lastmod>2013-03-04T13:03:08+01:00</lastmod>
+        <lastmod>2013-03-04T21:51:50+01:00</lastmod>
     </url>
     <url>
         <loc>http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io/</loc>
-        <lastmod>2013-03-04T13:03:08+01:00</lastmod>
+        <lastmod>2013-03-04T21:52:05+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io-extended/
         </loc>
-        <lastmod>2013-03-04T13:03:08+01:00</lastmod>
+        <lastmod>2013-03-04T21:51:58+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-netherlands/
         </loc>
-        <lastmod>2013-03-04T15:03:02+01:00</lastmod>
+        <lastmod>2013-03-04T21:52:11+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-opening/
         </loc>
-        <lastmod>2013-03-04T15:02:03+01:00</lastmod>
+        <lastmod>2013-03-04T21:52:22+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://dutchaug.github.com/dutchaug-org-site/blog/2012/11/22/dutchaug-at-droidconnl-2012/
+        </loc>
+        <lastmod>2013-03-04T22:17:39+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://dutchaug.github.com/dutchaug-org-site/blog/2012/12/20/the-android-nfc-meetup/
         </loc>
-        <lastmod>2013-03-04T13:03:08+01:00</lastmod>
+        <lastmod>2013-03-04T21:53:16+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/05/dutchaug-becomes-a-foundation/
+        </loc>
+        <lastmod>2013-03-04T22:25:09+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup/
         </loc>
-        <lastmod>2013-03-04T16:38:01+01:00</lastmod>
+        <lastmod>2013-03-04T22:10:28+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dutchaug.github.com/dutchaug-org-site/blog/archives/</loc>
+        <lastmod>2013-03-04T22:25:09+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dutchaug.github.com/dutchaug-org-site/blog/</loc>
+        <lastmod>2013-03-04T22:25:09+01:00</lastmod>
     </url>
     <url>
         <loc>http://dutchaug.github.com/dutchaug-org-site/contact/</loc>
@@ -74,19 +88,15 @@
     </url>
     <url>
         <loc>http://dutchaug.github.com/dutchaug-org-site/</loc>
-        <lastmod>2013-03-04T16:38:01+01:00</lastmod>
+        <lastmod>2013-03-04T22:27:56+01:00</lastmod>
     </url>
     <url>
         <loc>http://dutchaug.github.com/dutchaug-org-site/meetups/archives/</loc>
-        <lastmod>2013-03-04T16:38:01+01:00</lastmod>
+        <lastmod>2013-03-04T22:25:09+01:00</lastmod>
     </url>
     <url>
         <loc>http://dutchaug.github.com/dutchaug-org-site/meetups/</loc>
-        <lastmod>2013-03-04T16:38:01+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dutchaug.github.com/dutchaug-org-site/partners/</loc>
-        <lastmod>2013-03-04T13:03:08+01:00</lastmod>
+        <lastmod>2013-03-04T22:25:09+01:00</lastmod>
     </url>
     <url>
         <loc>
@@ -104,10 +114,6 @@
     </url>
     <url>
         <loc>http://dutchaug.github.com/dutchaug-org-site/sponsors/</loc>
-        <lastmod>2013-03-04T14:22:09+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dutchaug.github.com/dutchaug-org-site/supportus/</loc>
-        <lastmod>2013-03-04T13:03:08+01:00</lastmod>
+        <lastmod>2013-03-04T22:11:31+01:00</lastmod>
     </url>
 </urlset>

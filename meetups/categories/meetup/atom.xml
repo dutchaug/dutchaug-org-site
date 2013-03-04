@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: meetup | The Dutch Android User Group]]></title>
+  <link href="http://dutchaug.github.com/dutchaug-org-site/meetups/categories/meetup/atom.xml" rel="self"/>
+  <link href="http://dutchaug.github.com/dutchaug-org-site/"/>
+  <updated>2013-03-04T22:28:47+01:00</updated>
+  <id>http://dutchaug.github.com/dutchaug-org-site/</id>
+  <author>
+    <name><![CDATA[Foundation the Dutch Android User Group]]></name>
+    <email><![CDATA[info@dutchaug.org]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Android Code Puzzlers + Tips &amp; Tricks Meetup]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup/"/>
+    <updated>2013-02-26T16:30:00+01:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/meetups/2013-02-26-logo.png"></p>
+
+<p>Sometimes you're stuck... Either you are doing something wrong, or the Android Framework is... (probably the latter ;-).</p>
+
+<p>It's sometimes hard to find the right, or simply a good solution to programming challenges you face every day.
+In this meetup we want to train these skills by presenting you with some simple to really challenging Android Code Puzzlers
+to real-life Android programming situations. At the end of the evening you will be a more savvy Android programmer with a
+few new tricks up your sleeve ;-)</p>
+
+<h3>Example puzzles</h3>
+
+<p>Example 1 (2 points):
+<blockquote><p>Name 5 different ways to handle a button click in an Activity.</p></blockquote></p>
+
+<p>Example 2 (5 points):
+<blockquote><p>When I scroll to the top of the bottom of my ListView I see a blue vagueness popping in and out. How can you turn this off?</p></blockquote></p>
+
+<p>Example 3 (10 points):
+<blockquote><p>You create and execute an AsyncTask within the doInBackground method from another AsyncTask... Great solution, right? Or maybe not so great... What happens and why? How could you solve this?</p></blockquote></p>
+
+<p>We will present many of these kind of puzzlers which you will solve in small teams.
+When you register for this meetup we ask you for you Android programming skill level (beginner / intermediate / expert),
+this to create equally levelled teams. Good answers will score some points for your team, which at the end of the evening might result in
+some well earned prizes, but more importantly, eternal fame.</p>
+
+<p><em>Note:</em> If you have a interesting code challenge which suits this meetup fine please send it to <a href="info@dutchaug.org">info@dutchaug.org</a> (Thanks in advance!)</p>
+
+<h3>Tips &amp; Tricks</h3>
+
+<p>In the second half of this meetup we want to present you with our tips and tricks in how to setup an Android project, create project resources,
+present you with useful libraries, frameworks and tools we use to implement certain features in our Android apps. In return we would like to hear
+what you are doing to solve various day to day tasks in assembling your Android app and creating the best user experience for your users.
+Tips &amp; tricks from us to you and you to us ;-). And open discussion to learn from each other and improve our Android apps!</p>
+
+<h3>The Agenda</h3>
+
+<ul>
+<li>16:30 Walk-in</li>
+<li>17:00 Opening and Welcome (Michael Wolf - Luminis)</li>
+<li>17:10 DutchAUG announcements (Dennis)</li>
+<li>17:30 Android Code Puzzlers</li>
+<li>18:30 Dinner</li>
+<li>19:30 Android Tips &amp; Tricks</li>
+<li>20:30 Drinks and time to meet!</li>
+</ul>
+
+
+<h3>Win stuff</h3>
+
+<p>We will be giving away a print version of O'Reilly's "Android Cookbook" and Wrox's "Android Application Development Cookbook" plus two
+Manning eBooks (of your choice) at this meetup. We will also be giving away a free ticket (value &euro; 140,-) to mdevcon 2013 to one of the meetup attendees!</p>
+
+<p>We hope to get a full-house on this one, so don't wait to register soon!</p>
+
+<p>Kind regards,</p>
+
+<p>Your organizers: <em>Wiebe, Dennis and Johan.</em></p>
+
+<p><strong>P.S. We ask for a small fee for this meetup to help us paying for pizza &amp; drinks.</strong></p>
+
+<p><strong> This meetup is made possible by Luminis </strong></p>
+
+<p><img class="center" src="/images/luminis.png" width="500"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Android NFC Meetup]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/12/20/the-android-nfc-meetup/"/>
+    <updated>2012-12-20T00:00:00+01:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/12/20/the-android-nfc-meetup</id>
+    <content type="html"><![CDATA[<p><a href="http://bit.ly/daug-nfc-meetup"><img src="/images/meetups/nfc-meetup-promo-graphic.png"></a></p>
+
+<h2>Join the conversation</h2>
+
+<p>On Thursday December 20th we will pick-up our meetup schedule for the 2nd year of The Dutch Android User Group.
+At droidconNL we had lots of fun with <a href="https://play.google.com/store/apps/details?id=nl.dennisg.droidcon.hunt">"The NFC Hunt"</a> which
+inspired us to do more with NFC in the future. Luckily we have a pretty great line-up of speakers who have had many years of experience
+with NFC, recently available to a wide spread audience of people using the latest Android devices. We only have 80 seats available so
+<a href="http://bit.ly/daug-nfc-meetup">join</a> sooner rather than later!</p>
+
+<h2>Theme: <strong>"The Android NFC Meetup!"</strong></h2>
+
+<p>When you put two Android phones with NFC (Near Field Communication) capabilities close to each other... real close... in some apps a “Touch to Beam” dialog pops out and you can start sending pictures, or contact details, or whatever the programmers have come up with. NFC is an interesting way to communicate and which the latest Android devices are bringing to the masses. In this meetup we want to focus on what NFC is, what it’s future potential is and how you can use the “Touch to Beam” API in your own Android app and create whole new experiences for your end-users.</p>
+
+<h2>Featured speaker: Google's NFC Tech Lead Martijn Coenen</h2>
+
+<p>We are very excited to announce that Google's NFC Tech Lead <a href="https://plus.google.com/115995639636688350464">Martijn Coenen</a> will kick-off
+the NFC meetup with an interesting mix of inspirational and visionary talk about Android &amp; NFC, but also very practical stuff on why and how
+you should introduce the "Touch To Beam" functionality in your app.</p>
+
+<p><strong><strong>We hope to see you all on Dec 20th!</strong></strong></p>
+
+<p><a href="http://bit.ly/daug-nfc-meetup">register here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DutchAUG @ droidconNL 2012]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/11/22/dutchaug-at-droidconnl-2012/"/>
+    <updated>2012-11-22T00:00:00+01:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/11/22/dutchaug-at-droidconnl-2012</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA["V Hack Android" opening]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-opening/"/>
+    <updated>2012-09-14T00:00:00+02:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-opening</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA["V Hack Android" Netherlands]]></title>
+    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-netherlands/"/>
+    <updated>2012-09-14T00:00:00+02:00</updated>
+    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-netherlands</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
