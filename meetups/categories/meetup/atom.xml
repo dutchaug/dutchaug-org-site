@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: meetup | The Dutch Android User Group]]></title>
-  <link href="http://dutchaug.github.com/dutchaug-org-site/meetups/categories/meetup/atom.xml" rel="self"/>
-  <link href="http://dutchaug.github.com/dutchaug-org-site/"/>
-  <updated>2013-03-04T22:50:11+01:00</updated>
-  <id>http://dutchaug.github.com/dutchaug-org-site/</id>
+  <link href="http://blog.dutchaug.org/meetups/categories/meetup/atom.xml" rel="self"/>
+  <link href="http://blog.dutchaug.org/"/>
+  <updated>2013-07-26T07:31:14+02:00</updated>
+  <id>http://blog.dutchaug.org/</id>
   <author>
     <name><![CDATA[Foundation the Dutch Android User Group]]></name>
     <email><![CDATA[info@dutchaug.org]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Android Code Puzzlers + Tips &amp; Tricks Meetup]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup/"/>
+    <link href="http://blog.dutchaug.org/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup/"/>
     <updated>2013-02-26T16:30:00+01:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup</id>
+    <id>http://blog.dutchaug.org/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup</id>
     <content type="html"><![CDATA[<p><img class="center" src="/images/meetups/2013-02-26-logo.png"></p>
 
 <p>Sometimes you're stuck... Either you are doing something wrong, or the Android Framework is... (probably the latter ;-).</p>
@@ -86,9 +86,9 @@ Manning eBooks (of your choice) at this meetup. We will also be giving away a fr
   
   <entry>
     <title type="html"><![CDATA[The Android NFC Meetup]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/12/20/the-android-nfc-meetup/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/12/20/the-android-nfc-meetup/"/>
     <updated>2012-12-20T00:00:00+01:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/12/20/the-android-nfc-meetup</id>
+    <id>http://blog.dutchaug.org/blog/2012/12/20/the-android-nfc-meetup</id>
     <content type="html"><![CDATA[<p><a href="http://bit.ly/daug-nfc-meetup"><img src="/images/meetups/nfc-meetup-promo-graphic.png"></a></p>
 
 <h2>Join the conversation</h2>
@@ -117,27 +117,27 @@ you should introduce the "Touch To Beam" functionality in your app.</p>
   
   <entry>
     <title type="html"><![CDATA[DutchAUG @ droidconNL 2012]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/11/22/dutchaug-at-droidconnl-2012/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/11/22/dutchaug-at-droidconnl-2012/"/>
     <updated>2012-11-22T00:00:00+01:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/11/22/dutchaug-at-droidconnl-2012</id>
+    <id>http://blog.dutchaug.org/blog/2012/11/22/dutchaug-at-droidconnl-2012</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA["V Hack Android" opening]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-opening/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/09/14/v-hack-android-opening/"/>
     <updated>2012-09-14T00:00:00+02:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-opening</id>
+    <id>http://blog.dutchaug.org/blog/2012/09/14/v-hack-android-opening</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA["V Hack Android" Netherlands]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-netherlands/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/09/14/v-hack-android-netherlands/"/>
     <updated>2012-09-14T00:00:00+02:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-netherlands</id>
+    <id>http://blog.dutchaug.org/blog/2012/09/14/v-hack-android-netherlands</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

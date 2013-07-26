@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[The Dutch Android User Group]]></title>
-  <link href="http://dutchaug.github.com/dutchaug-org-site/atom.xml" rel="self"/>
-  <link href="http://dutchaug.github.com/dutchaug-org-site/"/>
-  <updated>2013-03-04T22:50:11+01:00</updated>
-  <id>http://dutchaug.github.com/dutchaug-org-site/</id>
+  <link href="http://blog.dutchaug.org/atom.xml" rel="self"/>
+  <link href="http://blog.dutchaug.org/"/>
+  <updated>2013-07-26T07:31:14+02:00</updated>
+  <id>http://blog.dutchaug.org/</id>
   <author>
     <name><![CDATA[Foundation the Dutch Android User Group]]></name>
     <email><![CDATA[info@dutchaug.org]]></email>
@@ -14,11 +14,121 @@
 
   
   <entry>
+    <title type="html"><![CDATA[You can hack, but you can't hide!]]></title>
+    <link href="http://blog.dutchaug.org/blog/2013/11/24/droidcon-hackathon/"/>
+    <updated>2013-11-24T00:00:00+01:00</updated>
+    <id>http://blog.dutchaug.org/blog/2013/11/24/droidcon-hackathon</id>
+    <content type="html"><![CDATA[<p>Sunday November 24th 2013 | 9am - 9pm | Science Park Amsterdam</p>
+
+<p><em>The Dutch Android User Group and droidconNL invite you to join the coolest Android hackathon event of the year!</em></p>
+
+<p><strong>Location, location, location</strong></p>
+
+<!-- more -->
+
+
+<p><em>Are you a savvy Android developer or designer but have little time to play around with all the cool new Google Play APIs
+and Android features? Or are you lacking inspiration or quality time to think up the next generation Android apps?
+If you can&#8217;t hide your enthusiasm for Android and just enjoy building great Android apps this event is for you!
+Sign up and be inspired by your teammates and fellow contestants and measure your Android skills in a single day
+Android hackathon event, just before the biggest Android conference in The Netherlands, droidconNL!</em></p>
+
+<p><img class="center" src="http://blog.dutchaug.org/images/meetups/dutchaug-android-hackathon-2013-poster-2-flattened.png"></p>
+
+<h2>Location, location, location:</h2>
+
+<p>The hackathon will be held on <strong>Sunday November 24th</strong> at the droidconNL 2013 venue;
+<strong>Science Park Amsterdam</strong>. We open the doors at <strong>9am</strong> and explain the process and rules and start the hackathon a
+little after that.
+Then you have until <strong>8pm</strong> to finish up your Android app and present it to a jury of Android experts.
+Apart from great prizes you&#8217;ll win eternal glory for winning the second DutchAUG hackathon and you can brag about your
+winning Android app for a whole year! At the end of the hackathon all contestant are invited to the &#8221;<em>after-the-hack party</em>&#8221;
+ for an informal meet &amp; greet with droidconNL speakers, sponsors and VIPs.</p>
+
+<h2>How can I join?</h2>
+
+<p>You can sign-up at <a href="http://www.droidcon.nl">http://www.droidcon.nl</a> starting from Monday July 29th at 10am! We will allow 12 teams to register for this event so be sure to
+register sooner rather than later if you want to enter the competition. The entry fee for this competition is &euro;25,- per person,
+ which is used to cover some of the costs for lunch, dinner, drinks and snacks throughout the day. You can either sign-up as a
+ solo Android developer or designer or sign-up with a complete team. The ideal team consist of two Android developers and
+ one designer (the top teams from last year had two developers and a designer on board), but teams of three Android developers
+ are allowed as well. We encourage Android development companies to register and sponsor their own team!</p>
+
+<h2>Further information</h2>
+
+<p>If you need further information about the hackathon or want to contact the organization about registering a company
+team or other sponsoring possibilities please send an e-mail to <a href="info@dutchaug.org">info@dutchaug.org</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Android design meetup]]></title>
+    <link href="http://blog.dutchaug.org/blog/2013/03/28/android-design-meetup/"/>
+    <updated>2013-03-28T16:30:00+01:00</updated>
+    <id>http://blog.dutchaug.org/blog/2013/03/28/android-design-meetup</id>
+    <content type="html"><![CDATA[<p>Android Design Meetup</p>
+
+<p>If you ever wonder what makes a good Android Design, what are the guidelines or how to go about making your Android application look awesome?</p>
+
+<p>Then we would like to invite you to the Android Design Meetup.</p>
+
+<p>Keynote - Marie Schweiz (Novoda)</p>
+
+<p>We are delighted to have Marie Schweiz join us via a hangout to give us a keynote.</p>
+
+<p>Marie is a Mobile/Android Visual &amp; UX designer working for Novoda in Berlin, Germany.</p>
+
+<p>Marie&#8217;s Website: marie-schweiz.de/</p>
+
+<p>Design Matters - User Interface Design for Android - Suzanne Wensveen (UNITiD)</p>
+
+<p>The second presentation of the evening is given by Suzanne Wensveen. She is going to take us on a journey to designing an Android application. It begins with defining the goal and preconditions and ends with the delivery to the developers.</p>
+
+<p>Suzanne Wensveen is an Interaction Designer at UNITiD. UNITiD is a Design Agency that creates designs for digital applications that are useful, usable and meaningful to people.</p>
+
+<p>She is also the creator of AndroidPatterns.com.</p>
+
+<p>&#8220;Android design patterns&#8221; - Raul Portales (Platty Soft)</p>
+
+<p>The consistency on Android UI and its patterns is one of the challenges of working with the platform. To help with this, Google created the Android Design Site explaining how things should be. But the UI components are only available on newer versions of Android&#8230; What to do???</p>
+
+<p>In our last presentation Raul will present the main UI paradigms that Google is pushing forward and discuss them.</p>
+
+<p>Raul is an entrepreneur who focuses on Android. He has over 5 years of experience in mobile development. He landed in Amsterdam to work at Hyves, Nowadays he works on his own apps and games as well as freelancing for other Dutch startups such as Layar or Fashiolista.</p>
+
+<p>Raul&#8217;s Twitter: https://twitter.com/sla_shalafi</p>
+
+<p>Finally we have reserved some time for general design discussions.</p>
+
+<p>You can ask the audience what they think about your application design, discuss the sliding menu or share ideas, experiences or thoughts about other aspects of Android design related topics.</p>
+
+<p>The Agenda</p>
+
+<p>17:00 Walk-in
+17:20 Opening and Welcome
+17:40 Keynote
+18:20 Design Matters - User Interface Design for Android
+19:10 Dinner
+19:40 Android design patterns
+20:40 Open Space
+21:30 Drinks and time to meet!</p>
+
+<p>We hope you can join us, so don&#8217;t wait and register now!</p>
+
+<p>Kind regards,</p>
+
+<p>Your organizers: Johan, Hugo, Dennis, and Wiebe.</p>
+
+<p>P.S. We ask for a small fee for this meetup to help us paying for food &amp; drinks.a</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Android Code Puzzlers + Tips &amp; Tricks Meetup]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup/"/>
+    <link href="http://blog.dutchaug.org/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup/"/>
     <updated>2013-02-26T16:30:00+01:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/2013-02-26-logo.png"></p>
+    <id>http://blog.dutchaug.org/blog/2013/02/26/android-code-puzzlers-plus-tips-and-tricks-meetup</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://blog.dutchaug.org/images/meetups/2013-02-26-logo.png"></p>
 
 <p>Sometimes you&#8217;re stuck&#8230; Either you are doing something wrong, or the Android Framework is&#8230; (probably the latter ;-).</p>
 
@@ -86,15 +196,15 @@ Manning eBooks (of your choice) at this meetup. We will also be giving away a fr
 
 <p><strong> This meetup is made possible by Luminis </strong></p>
 
-<p><img class="center" src="http://dutchaug.github.com/dutchaug-org-site/images/luminis.png" width="500"></p>
+<p><img class="center" src="http://blog.dutchaug.org/images/luminis.png" width="500"></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[DutchAUG becomes a foundation]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/05/dutchaug-becomes-a-foundation/"/>
+    <link href="http://blog.dutchaug.org/blog/2013/02/05/dutchaug-becomes-a-foundation/"/>
     <updated>2013-02-05T00:00:00+01:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2013/02/05/dutchaug-becomes-a-foundation</id>
+    <id>http://blog.dutchaug.org/blog/2013/02/05/dutchaug-becomes-a-foundation</id>
     <content type="html"><![CDATA[<p>Today, we have registered <a href="https://plus.google.com/113182948271879290904">+The Dutch Android User Group</a> as an official foundation at the notary office this morning and at the chamber of
 commerce later this week.</p>
 
@@ -106,16 +216,16 @@ to continue to build the Dutch Android community with <em>Stichting</em> (Founda
 <p>In the pictures, foundation board members <a href="https://plus.google.com/114227856179062761851">+Johan Pelgrim</a>,
 <a href="https://plus.google.com/113269803670398336067">+Dennis Geurts</a> and <a href="https://plus.google.com/105209480109514753422">+Wiebe Elsinga</a> jotting down their signatures on the notary papers.</p>
 
-<p><img src="http://dutchaug.github.com/dutchaug-org-site/images/news/IMG_20130205_110757.jpg"><img src="http://dutchaug.github.com/dutchaug-org-site/images/news/IMG_20130205_110809.jpg"><img src="http://dutchaug.github.com/dutchaug-org-site/images/news/IMG_20130205_110821.jpg"></p>
+<p><img src="http://blog.dutchaug.org/images/news/IMG_20130205_110757.jpg"><img src="http://blog.dutchaug.org/images/news/IMG_20130205_110809.jpg"><img src="http://blog.dutchaug.org/images/news/IMG_20130205_110821.jpg"></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[The Android NFC Meetup]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/12/20/the-android-nfc-meetup/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/12/20/the-android-nfc-meetup/"/>
     <updated>2012-12-20T00:00:00+01:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/12/20/the-android-nfc-meetup</id>
-    <content type="html"><![CDATA[<p><a href="http://bit.ly/daug-nfc-meetup"><img src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/nfc-meetup-promo-graphic.png"></a></p>
+    <id>http://blog.dutchaug.org/blog/2012/12/20/the-android-nfc-meetup</id>
+    <content type="html"><![CDATA[<p><a href="http://bit.ly/daug-nfc-meetup"><img src="http://blog.dutchaug.org/images/meetups/nfc-meetup-promo-graphic.png"></a></p>
 
 <h2>Join the conversation</h2>
 
@@ -143,36 +253,36 @@ you should introduce the &#8220;Touch To Beam&#8221; functionality in your app.<
   
   <entry>
     <title type="html"><![CDATA[DutchAUG @ droidconNL 2012]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/11/22/dutchaug-at-droidconnl-2012/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/11/22/dutchaug-at-droidconnl-2012/"/>
     <updated>2012-11-22T00:00:00+01:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/11/22/dutchaug-at-droidconnl-2012</id>
+    <id>http://blog.dutchaug.org/blog/2012/11/22/dutchaug-at-droidconnl-2012</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA["V Hack Android" opening]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-opening/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/09/14/v-hack-android-opening/"/>
     <updated>2012-09-14T00:00:00+02:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-opening</id>
+    <id>http://blog.dutchaug.org/blog/2012/09/14/v-hack-android-opening</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA["V Hack Android" Netherlands]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-netherlands/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/09/14/v-hack-android-netherlands/"/>
     <updated>2012-09-14T00:00:00+02:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/09/14/v-hack-android-netherlands</id>
+    <id>http://blog.dutchaug.org/blog/2012/09/14/v-hack-android-netherlands</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Google I/O Extended 2012, Amsterdam]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io-extended/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/06/27/google-io-extended/"/>
     <updated>2012-06-27T00:00:00+02:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io-extended</id>
+    <id>http://blog.dutchaug.org/blog/2012/06/27/google-io-extended</id>
     <content type="html"><![CDATA[<h2>Intro</h2>
 
 <p>While it is probably not as exciting as the real thing in San Francisco, I&#8217;m still curious about what the keynote will be like.
@@ -189,9 +299,9 @@ iframe src="https://developers.google.com/events/announce/googleio2012/113269803
   
   <entry>
     <title type="html"><![CDATA[Google I/O 2012, San Francisco]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/06/27/google-io/"/>
     <updated>2012-06-27T00:00:00+02:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/27/google-io</id>
+    <id>http://blog.dutchaug.org/blog/2012/06/27/google-io</id>
     <content type="html"><![CDATA[<p><img src="https://developers.google.com/apps/images/io/google-io-logo.png"></p>
 
 <h2>Google IO live stream.</h2>
@@ -212,10 +322,10 @@ iframe src="https://developers.google.com/events/announce/googleio2012/114227856
   
   <entry>
     <title type="html"><![CDATA[Dutch Android Open Space (2)]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/07/dutch-android-open-space2/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/06/07/dutch-android-open-space2/"/>
     <updated>2012-06-07T00:00:00+02:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/07/dutch-android-open-space2</id>
-    <content type="html"><![CDATA[<p><a href="http://www.dutchaug.org/events/63236452/"><img src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/Dutch-Android-Open-Space-2.png"></a></p>
+    <id>http://blog.dutchaug.org/blog/2012/06/07/dutch-android-open-space2</id>
+    <content type="html"><![CDATA[<p><a href="http://www.dutchaug.org/events/63236452/"><img src="http://blog.dutchaug.org/images/meetups/Dutch-Android-Open-Space-2.png"></a></p>
 
 <h2>Join the conversation</h2>
 
@@ -249,10 +359,10 @@ In an inspirational keynote Rich will share his vision on how we can build aweso
   
   <entry>
     <title type="html"><![CDATA[Dutch Android Open Space (1)]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/07/dutch-android-open-space/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/06/07/dutch-android-open-space/"/>
     <updated>2012-06-07T00:00:00+02:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/06/07/dutch-android-open-space</id>
-    <content type="html"><![CDATA[<p><a href="http://www.dutchaug.org/events/63236452/"><img src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/Dutch-Android-Open-Space-1.png"></a></p>
+    <id>http://blog.dutchaug.org/blog/2012/06/07/dutch-android-open-space</id>
+    <content type="html"><![CDATA[<p><a href="http://www.dutchaug.org/events/63236452/"><img src="http://blog.dutchaug.org/images/meetups/Dutch-Android-Open-Space-1.png"></a></p>
 
 <h2>Join the conversation</h2>
 
@@ -280,9 +390,9 @@ hangout for Q&amp;A, so feel free to prepare a question or two for Rich.</p>
   
   <entry>
     <title type="html"><![CDATA[Android Tablet Development]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/03/15/tablet-development/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/03/15/tablet-development/"/>
     <updated>2012-03-15T00:00:00+01:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/03/15/tablet-development</id>
+    <id>http://blog.dutchaug.org/blog/2012/03/15/tablet-development</id>
     <content type="html"><![CDATA[<h2>Introduction</h2>
 
 <p>Designing and developing for an Android tablet is very different to designing and developing for smartphones.
@@ -308,7 +418,7 @@ Android Tablets.</p>
 
 <h4>Wiebe Elsinga</h4>
 
-<p><img src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/wiebee.jpeg"> Is currently a Technical Lead at the mobile department of Itude.
+<p><img src="http://blog.dutchaug.org/images/meetups/wiebee.jpeg"> Is currently a Technical Lead at the mobile department of Itude.
 He has a long time experience in software development of mobile, web and enterprise applications. He is mainly
 focused on the development of mobile applications, and is continuously seeking quality improvements within the development
 process of mobile applications. Besides being a co-organizer of the Dutch Android Usergroup he is also a public speaker at
@@ -316,7 +426,7 @@ technical conferences worldwide.</p>
 
 <h4>Coen Houtman</h4>
 
-<p><img src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/coenh.jpeg"> Started his study &#8220;computer science&#8221; in 2004 to become a software engineer. During his study he was
+<p><img src="http://blog.dutchaug.org/images/meetups/coenh.jpeg"> Started his study &#8220;computer science&#8221; in 2004 to become a software engineer. During his study he was
  able to gain experience with a variety of programming languages, including: C, C++ and C#. Most classes, however, were built around
  Java. In 2008 he started working at Itude, where soon after, he joined the mobile department. After working on various mobile
  projects, he started out on his first Android project in 2010. Since then, he helped building complex Android applications for
@@ -324,7 +434,7 @@ technical conferences worldwide.</p>
 
 <h4>Dennis Geurts</h4>
 
-<p><img src="http://dutchaug.github.com/dutchaug-org-site/images/meetups/dennisg.jpeg"> Is an experienced software engineer at Luminis.
+<p><img src="http://blog.dutchaug.org/images/meetups/dennisg.jpeg"> Is an experienced software engineer at Luminis.
 He loves programming for mobile devices (mostly Android, but also for iPhone/iPad) but is also well-versed in OSGi
  and Java in general. He&#8217;s also interested in node.js and noSQL (CouchDB and Redis are his favorites).</p>
 ]]></content>
@@ -332,9 +442,9 @@ He loves programming for mobile devices (mostly Android, but also for iPhone/iPa
   
   <entry>
     <title type="html"><![CDATA[DutchAUG @ mdevcon]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/03/10/mdevcon/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/03/10/mdevcon/"/>
     <updated>2012-03-10T00:00:00+01:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/03/10/mdevcon</id>
+    <id>http://blog.dutchaug.org/blog/2012/03/10/mdevcon</id>
     <content type="html"><![CDATA[<h2>mdevcon 2012</h2>
 
 <p>On Saturday March 10th 2012 <a href="http://mdevcon.com/">mdevcon</a> will be held in the beautiful Tuschinski theater in Amsterdam
@@ -368,9 +478,9 @@ If you attend the <a href="http://www.dutchaug.org/events/46919792">Android meet
   
   <entry>
     <title type="html"><![CDATA[Android meets the Entreprise]]></title>
-    <link href="http://dutchaug.github.com/dutchaug-org-site/blog/2012/02/22/android-meets-enterprise/"/>
+    <link href="http://blog.dutchaug.org/blog/2012/02/22/android-meets-enterprise/"/>
     <updated>2012-02-22T00:00:00+01:00</updated>
-    <id>http://dutchaug.github.com/dutchaug-org-site/blog/2012/02/22/android-meets-enterprise</id>
+    <id>http://blog.dutchaug.org/blog/2012/02/22/android-meets-enterprise</id>
     <content type="html"><![CDATA[<h2>Introduction</h2>
 
 <p>Software companies are most likely working on many Android apps. There is an increased need want to control this development process.

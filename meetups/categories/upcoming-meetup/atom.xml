@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: upcoming-meetup | The Dutch Android User Group]]></title>
+  <link href="http://blog.dutchaug.org/meetups/categories/upcoming-meetup/atom.xml" rel="self"/>
+  <link href="http://blog.dutchaug.org/"/>
+  <updated>2013-07-26T07:31:14+02:00</updated>
+  <id>http://blog.dutchaug.org/</id>
+  <author>
+    <name><![CDATA[Foundation the Dutch Android User Group]]></name>
+    <email><![CDATA[info@dutchaug.org]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Android design meetup]]></title>
+    <link href="http://blog.dutchaug.org/blog/2013/03/28/android-design-meetup/"/>
+    <updated>2013-03-28T16:30:00+01:00</updated>
+    <id>http://blog.dutchaug.org/blog/2013/03/28/android-design-meetup</id>
+    <content type="html"><![CDATA[<p>Android Design Meetup</p>
+
+<p>If you ever wonder what makes a good Android Design, what are the guidelines or how to go about making your Android application look awesome?</p>
+
+<p>Then we would like to invite you to the Android Design Meetup.</p>
+
+<p>Keynote - Marie Schweiz (Novoda)</p>
+
+<p>We are delighted to have Marie Schweiz join us via a hangout to give us a keynote.</p>
+
+<p>Marie is a Mobile/Android Visual &amp; UX designer working for Novoda in Berlin, Germany.</p>
+
+<p>Marie's Website: marie-schweiz.de/</p>
+
+<p>Design Matters - User Interface Design for Android - Suzanne Wensveen (UNITiD)</p>
+
+<p>The second presentation of the evening is given by Suzanne Wensveen. She is going to take us on a journey to designing an Android application. It begins with defining the goal and preconditions and ends with the delivery to the developers.</p>
+
+<p>Suzanne Wensveen is an Interaction Designer at UNITiD. UNITiD is a Design Agency that creates designs for digital applications that are useful, usable and meaningful to people.</p>
+
+<p>She is also the creator of AndroidPatterns.com.</p>
+
+<p>"Android design patterns" - Raul Portales (Platty Soft)</p>
+
+<p>The consistency on Android UI and its patterns is one of the challenges of working with the platform. To help with this, Google created the Android Design Site explaining how things should be. But the UI components are only available on newer versions of Android... What to do???</p>
+
+<p>In our last presentation Raul will present the main UI paradigms that Google is pushing forward and discuss them.</p>
+
+<p>Raul is an entrepreneur who focuses on Android. He has over 5 years of experience in mobile development. He landed in Amsterdam to work at Hyves, Nowadays he works on his own apps and games as well as freelancing for other Dutch startups such as Layar or Fashiolista.</p>
+
+<p>Raul's Twitter: https://twitter.com/sla_shalafi</p>
+
+<p>Finally we have reserved some time for general design discussions.</p>
+
+<p>You can ask the audience what they think about your application design, discuss the sliding menu or share ideas, experiences or thoughts about other aspects of Android design related topics.</p>
+
+<p>The Agenda</p>
+
+<p>17:00 Walk-in
+17:20 Opening and Welcome
+17:40 Keynote
+18:20 Design Matters - User Interface Design for Android
+19:10 Dinner
+19:40 Android design patterns
+20:40 Open Space
+21:30 Drinks and time to meet!</p>
+
+<p>We hope you can join us, so don't wait and register now!</p>
+
+<p>Kind regards,</p>
+
+<p>Your organizers: Johan, Hugo, Dennis, and Wiebe.</p>
+
+<p>P.S. We ask for a small fee for this meetup to help us paying for food &amp; drinks.a</p>
+]]></content>
+  </entry>
+  
+</feed>

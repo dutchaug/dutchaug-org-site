@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://dutchaug.github.com/dutchaug-org-site/sitemap.xml 
+Sitemap: http://blog.dutchaug.org/sitemap.xml 
